@@ -667,13 +667,12 @@ p {
 		text-align: left;
 		padding-left: 20px;
 	}
-	/* End contact  */
+	
 }
-/* End Media Query For Tablet */
 
-/* Media Query For Desktop */
+
 @media only screen and (min-width: 1200px) {
-	/* header */
+	
 	#header .hamburger {
 		display: none;
 	}
@@ -693,11 +692,11 @@ p {
 	#header .nav-list ul a:after {
 		display: none;
 	}
-	/* End header */
+	
 
 	#services .service-bottom .service-item {
 		flex-basis: 22%;
 		margin: 1.5%;
 	}
 }
-/* End  Media Query For Desktop */
+
